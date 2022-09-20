@@ -1,0 +1,43 @@
+title: Recipe Title
+description: Overview of the recipe
+url: 'https://example.com'
+type: object
+properties:
+  url:
+    type: string
+  ingredients:
+    type: array
+    items:
+      - type: object
+        properties:
+          count:
+            description: |
+              ingredient measurement
+               e.g. (1) apple or 0.5 cups
+            type: number
+          type:
+            description: |
+              measurement type
+              e.g. ounces, cups, kilograms, etc
+            type:
+              - string
+              - 'null'
+          name:
+            description: |
+              ingredient name
+            type: string
+          cost:
+            description: |
+              estimated cost for the item in USD
+            type: number
+  directions:
+    type: array
+    items:
+      - type: string
+        description: directions for the recipe
+  tags:
+    type: array
+    description: tags for the recipe
+    items:
+      - type: string
+        description: tags for the recipe

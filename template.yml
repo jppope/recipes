@@ -1,0 +1,21 @@
+title: Butter Noodles
+description: The easiest dish known to man
+url: 'https://example.com'
+ingredients:
+  - count: 16
+    type: "oz"
+    name: "pasta"
+    cost: 2.5
+  - count: 2
+    type: oz
+    name: Butter
+    cost: .5
+directions:
+  - boil water
+  - put the pasta into the water
+  - strain the pasta
+  - add Butter
+  - enjoy
+tags:
+  - pasta
+  - butter
