@@ -3,18 +3,18 @@ description: The cheapest dish known to man
 url: 'https://example.com'
 ingredients:
   - count: 1
-    type: can
+    unit: can
     name: rotel
     cost: .79
   - count: 2
-    type: tablespoons
+    unit: tablespoons
     name: Butter
     cost: .50
   - count: 1
     name: onion
     cost: .75
   - count: 1
-    type: cups
+    unit: cups
     name: rice
     cost: .25
 directions:

@@ -17,8 +17,8 @@
 							"description": "ingredient measurement\n e.g. (1) apple or 0.5 cups\n",
 							"type": "number"
 						},
-						"type": {
-							"description": "measurement type\ne.g. ounces, cups, kilograms, etc\n",
+						"unit": {
+							"description": "measurement unit\ne.g. ounces, cups, kilograms, etc\n",
 							"type": [
 								"string",
 								"null"
@@ -30,6 +30,10 @@
 						},
 						"cost": {
 							"description": "estimated cost for the item in USD\n",
+							"type": "number"
+						},
+						"calories": {
+							"description": "estimated calories for the item\n",
 							"type": "number"
 						}
 					}

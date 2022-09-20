@@ -1,0 +1,56 @@
+title: Braised Chicken
+description: Simple French Style Braised Chicken
+ingredients:
+  - count: 5
+    unit: oz
+    name: butter
+    cost: .75
+  - count: 1
+    unit: lbs
+    name: organic chicken thighs
+    cost: 8
+  - count: 1
+    name: Onion
+    cost: 1.5
+  - count: 1
+    unit: cups
+    name: celery
+    cost: 1.5
+  - count: 3
+    name: carrots
+    cost: .5
+  - count: 5
+    name: potatoes
+    cost: 1
+  - count: 6
+    unit: oz
+    name: tomato paste
+    cost: 1
+  - count: 1
+    unit: cups
+    name: red or white wine
+    cost: 3
+  - count: 2
+    unit: cups
+    name: chicken stock
+    cost: 1.5
+  - count: 1
+    name: thyme
+    cost: 3
+directions:
+  - par cook the chicken in a dutch oven on the stove
+  - remove the chicken, leave the juices in the dutch oven
+  - make a mirepoix, dice the onion, celery, and carrots
+  - saute the mirepoix, add salt, pepper
+  - after vegetables have softened, turn down the heat and add tomato paste
+  - take a big swig of wine then add a cup to the pot
+  - turn up the heat
+  - after 3-5 min add the chicken stock
+  - once boiling add the thyme
+  - add the potatoes, turn down the heat
+  - cover for 15 min and let simmer
+  - enjoy
+tags:
+  - french
+  - chicken
+  - soup
