@@ -1,0 +1,69 @@
+title: Beef Chilli
+description: Simple Beef Chilli
+ingredients:
+  - count: 2
+    unit: tablespoons
+    name: oil
+    cost: .25
+  - count: 1
+    unit: lbs
+    name: organic ground beef
+    cost: 8
+  - count: 1
+    name: onion
+    cost: 1.5
+  - count: 1
+    name: green bell pepper or hatch Chilli
+    cost: 1.5
+  - count: 1
+    unit: can
+    name: pinto beans
+    cost: 1
+  - count: 1
+    unit: can
+    name: baked beans
+    cost: 1
+  - count: 1
+    unit: can
+    name: black beans
+    cost: 1
+  - count: 1
+    unit: can
+    name: tomatoes
+    cost: 1
+  - count: 2
+    unit: cups
+    name: chicken stock
+    cost: 1.5
+  - count: .5
+    unit: teaspoon
+    name: cumin
+    cost: .05
+  - count: .5
+    unit: teaspoon
+    name: paprika
+    cost: .05
+  - count: .5
+    unit: teaspoon
+    name: garlic powder
+    cost: .05
+  - count: 1
+    unit: dash
+    name: salt and pepper
+    cost: 0.01
+directions:
+  - brown the ground beef in a pot
+  - dice the onion, and green pepper
+  - saute the onion and green pepper
+  - after vegetables have softened, turn down the heat
+  - add the stock and canned items
+  - turn up the heat
+  - once boiling add spices
+  - turn down the heat to simmer
+  - cover for 10-20 min and let simmer
+  - enjoy
+tags:
+  - chilli
+  - beef
+  - soup
+  - american
