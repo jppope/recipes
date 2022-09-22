@@ -26,7 +26,7 @@ ingredients:
   - count: 1
     unit: cups
     name: pasta water
-    cost: 1.5
+    cost: 0
   - count: 1
     name: Pappardelle
     cost: 3
@@ -41,6 +41,5 @@ directions:
   - after the tomato paste has mixed add 0.5 cup to 1 cup of water from the pasta pot
   - enjoy
 tags:
-  - french
-  - chicken
-  - soup
+  - chorizo
+  - pasta

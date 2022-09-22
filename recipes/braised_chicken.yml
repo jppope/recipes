@@ -10,7 +10,7 @@ ingredients:
     name: organic chicken thighs
     cost: 8
   - count: 1
-    name: Onion
+    name: onion
     cost: 1.5
   - count: 1
     unit: cups
