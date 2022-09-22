@@ -1,0 +1,46 @@
+title: chorizo Pappardelle Pasta
+description: Quick and easy chorizo based pasta
+ingredients:
+  - count: 10
+    unit: oz
+    name: chorizo
+    cost: 8
+  - count: 3
+    name: shallots
+    cost: 2
+  - count: 1
+    unit: cups
+    name: celery
+    cost: 1.5
+  - count: 3
+    name: carrots
+    cost: .5
+  - count: 6
+    unit: oz
+    name: tomato paste
+    cost: 1
+  - count: .5
+    unit: cups
+    name: red or white wine
+    cost: 3
+  - count: 1
+    unit: cups
+    name: pasta water
+    cost: 1.5
+  - count: 1
+    name: Pappardelle
+    cost: 3
+directions:
+  - boil water in a pot, add pasta, strain when cooked
+  - while the water boils, brown the chorizo in a cast iron skillet or large pan
+  - dice the shallot, celery, and carrots
+  - add the chopped vegetables to the chorizo, add salt, pepper
+  - after vegetables have softened, turn down the heat and add tomato paste
+  - take a big swig of wine then add 0.5 cup to the mix
+  - stir and turn up the heat
+  - after the tomato paste has mixed add 0.5 cup to 1 cup of water from the pasta pot
+  - enjoy
+tags:
+  - french
+  - chicken
+  - soup
