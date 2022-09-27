@@ -2,8 +2,7 @@ import fs from 'fs';
 import path from 'path';
 import Ajv from  "ajv";
 import yaml from 'js-yaml';
-
-
+import { Console } from 'console';
 
 
 (async () => {
@@ -40,12 +39,16 @@ import yaml from 'js-yaml';
 			selected[list[index]['id']] = list[index];
 		}
 	}
-	// console.log(selected);
 
-	// sort the selected recipes by cost
+	// print recipe names
+	console.log("Recipes:\n");
+	for (const [key, value] of Object.entries(selected)) {
+		console.log(`- ${value.title} (${value.description})`);
+	}
+
+	console.log("\nGrocery List:\n");
+	// sort by total cost
 	let sorted = Object.values(selected).sort((a, b) => a.total - b.total);
-
-	// console.log(sorted);
 
 	// build a grocery list
 	let groceryList = {
@@ -97,6 +100,7 @@ import yaml from 'js-yaml';
 		}
 	}
 
+	console.log("\n")
 	console.log("Total Cost Est: ", Math.ceil(groceryList.total));
 
 

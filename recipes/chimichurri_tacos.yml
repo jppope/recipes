@@ -1,0 +1,27 @@
+title: chimichurri steak tacos
+description: simple easy
+ingredients:
+  - count: 1
+    unit: lbs
+    name: chimichurri
+    cost: 15
+  - count: 1
+    name: onion
+    cost: 1.5
+  - count: 1
+    name: green pepper
+    cost: 2
+  - count: 12
+    name: corn tortillas
+    cost: 2
+directions:
+  - heat up your grill to at least 400F
+  - slice the onion and green pepper
+  - saute onion and green pepper in a skillet for ~5min
+  - throw the chimichurri steak on the grill @ 400F for 5-10min
+  - enjoy
+tags:
+  - tacos
+  - chimichurri
+  - steak
+  - fajitas

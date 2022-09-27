@@ -16,6 +16,9 @@ directions:
   - strain the pasta
   - add Butter
   - enjoy
+sides:
+  - $ref: 'https://github.com/jppope/recipes/sides/side_name'
+  - $ref: 'https://github.com/jppope/recipes/sides/other_side_name'
 tags:
   - pasta
   - butter
