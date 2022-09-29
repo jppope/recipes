@@ -1,0 +1,64 @@
+title: ginger miso pork
+description: asian style pork dish
+ingredients:
+  - count: 2
+    unit: tablespoons
+    name: oil
+    cost: .25
+  - count: 1
+    unit: cups
+    name: rice
+    cost: .25
+  - count: 1
+    unit: lbs
+    name: ground pork
+    cost: 6
+  - count: 1
+    name: onion
+    cost: 1.5
+  - count: 1
+    name: zuccini
+    cost: 1
+  - count: 2
+    unit: cups
+    name: chicken stock
+    cost: 1.5
+  - count: .5
+    unit: tablespoons
+    name: ginger
+    cost: .5
+  - count: 1
+    unit: clove
+    name: garlic
+    cost: .5
+  - count: 2
+    unit: tablespoons
+    name: miso paste
+    cost: .5
+  - count: 1
+    unit: tablespoons
+    name: fish sauce
+    cost: .5
+  - count: 2
+    unit: tablespoons
+    name: soy sauce
+    cost: .25
+directions:
+  - cook the rice
+  - while the rice is cooking brown the ground pork in a pan
+  - transfer the pork to a container
+  - mince the ginger and garlic
+  - dice the onion, and zuccini
+  - saute the ginger and garlic in 2 oz oil
+  - once fragrant, saute the onion, eventually add the zuccini
+  - after vegetables have softened, turn down the heat
+  - add the stock and miso paste
+  - add the soy sauce, and fish sauce
+  - turn up the heat
+  - turn down the heat to simmer for 2-5 min to let the flavors blend
+  - enjoy
+tags:
+  - chilli
+  - beef
+  - soup
+  - american
