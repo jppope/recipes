@@ -1,0 +1,29 @@
+title: Spätzle
+description: Tasty German pasta
+ingredients:
+  - count: 4
+    unit: cups
+    name: flour
+    cost: 1
+  - count: 4
+    unit: tablespoons
+    name: Butter
+    cost: 1
+  - count: 8
+    name: eggs
+    cost: 2.50
+  - count: 1
+    unit: cups
+    name: milk
+    cost: .5
+directions:
+  - beat the eggs in a bowl and add the milk
+  - boil a pot of water
+  - add the flour to the eggs/milk. mix
+  - use a cheese grader or Spätzle maker to boil the pasta
+  - use a strainer to pull out the pasta and put into cold water to stop from cooking
+  - repeat till all Spätzle is cooked.
+  - saute Spätzle in butter just before serving
+tags:
+  - cheap
+  - german

@@ -9,7 +9,7 @@ import { Console } from 'console';
 	/**
 	 * select random recipes
 	 */
-	const recipes = fs.readdirSync('./recipes');
+	const recipes = fs.readdirSync('./dinner');
 	let list = [];
 	let selected = {};
 	let count = 0;
@@ -17,7 +17,7 @@ import { Console } from 'console';
 	for (const recipe of recipes) {
 		let doc;
 		try {
-			doc = await yaml.load(fs.readFileSync(path.join('./recipes', recipe), 'utf8'));
+			doc = await yaml.load(fs.readFileSync(path.join('./dinner', recipe), 'utf8'));
 			// console.log(doc);
 		} catch (e) {
 			console.log(e);

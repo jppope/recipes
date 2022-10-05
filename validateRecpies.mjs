@@ -26,10 +26,10 @@ import schema from './schema.json' assert {type: 'json'};
 	/**
 	 * Validate Recipes
 	 */
-	const recipes = fs.readdirSync('./recipes');
+	const recipes = fs.readdirSync('./dinner');
 	for (const recipe of recipes) {
 		try {
-			doc = await yaml.load(fs.readFileSync(path.join('./recipes', recipe), 'utf8'));
+			doc = await yaml.load(fs.readFileSync(path.join('./dinner', recipe), 'utf8'));
 			// console.log(doc);
 		} catch (e) {
 			console.log(e);
