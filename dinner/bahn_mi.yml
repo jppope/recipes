@@ -1,0 +1,47 @@
+title: pork bahn mi
+description: vietnamese pork sandwich
+ingredients:
+  - count: 1
+    unit: lbs
+    name: pork tenderloin
+    cost: 9
+  - count: 1
+    name: baguette
+    cost: 3
+  - count: 1
+    name: red onion
+    cost: 1.5
+  - count: 3
+    name: carrots
+    cost: 1.5
+  - count: 1
+    name: daikon
+    cost: 2
+  - count: 1
+    name: cilantro
+    cost: 1.5
+  - count: 1
+    unit: tablespoons
+    name: mayonnaise
+    cost: .1
+  - count: 5
+    unit: tablespoons
+    name: vinegar
+    cost: .25
+  - count: 5
+    unit: tablespoons
+    name: sugar
+    cost: .25
+directions:
+  - cut carrots into strips, thinly slice onion and daikon
+  - make a quick brine by putting vinegar, sugar and water in a bowl and add carrot strips, diakon, and onions
+  - Bake the pork tenderloin in the oven for 30 min @ 400F. Every recipe says 25min but its never enough
+  - once the pork is done, thinly slice it
+  - toast the baguette
+  - apply mayo
+  - add pork, pickled veggies, cilantro
+  - dont let anyone know that you have this, your friends will want it
+tags:
+  - pork
+  - sandwich
+  - vietnamese

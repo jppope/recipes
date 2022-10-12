@@ -31,7 +31,7 @@ import { Console } from 'console';
 	// console.log(list);
 
 	// select 7 recipes at random from the list
-	for (let i = 2; i > 0; i--) {
+	for (let i = 4; i > 0; i--) {
 		let index = Math.floor(Math.random() * recipes.length);
 		if (selected[list[index]['id']] != undefined || selected[list[index]['id']] != null) {
 			i += 1;
