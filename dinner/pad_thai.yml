@@ -1,0 +1,20 @@
+title: Pad Thai
+description: Thai stirfry thing.
+url: 'https://example.com'
+ingredients:
+  - count: 8
+    unit: oz
+    name: pad thai noodles
+    cost: 3
+  - count: 2
+    unit: tablespoons
+    name: sesame oil
+    cost: .50
+  - count: 3
+    name: green onions
+    cost: .75
+directions:
+  - WIP
+tags:
+  - cheap
+  - thai
