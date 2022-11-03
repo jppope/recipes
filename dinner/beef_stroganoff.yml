@@ -1,0 +1,74 @@
+title: beef stroganoff
+description: beef and egg noodles in a garlicky, creamy mushroom sauce
+ingredients:
+  - count: 1
+    unit: lbs
+    name: top sirloin steak
+    cost: 
+  - count: 2
+    unit: tablespoons
+    name: olive oil
+    cost: 
+  - count: 2
+    unit: tablespoons
+    name: unsalted butter
+    cost: 
+  - count: .5
+    name: onion
+    cost: 
+  - count: .5
+    unit: lbs
+    name: brown mushrooms
+    cost: 
+  - count: 1
+    name: garlic cloves
+    cost: 
+  - count: 1
+    unit: tablespoons
+    name: all-purpose flour
+    cost: 
+  - count: 1
+    unit: cups
+    name: beef broth
+    cost: 
+  - count: .75
+    unit: cups
+    name: heavy whipping cream
+    cost: 
+  - count: .25
+    unit: cups
+    name: sour cream
+    cost:
+  - count: 1
+    unit: tablespoons
+    name: Worcestershire sauce
+    cost:
+  - count: .5
+    unit: teaspoons
+    name: dijon mustard
+    cost:
+  - count: .5
+    unit: teaspoons
+    name: salt
+    cost:
+  - count: .25
+    unit: teaspoons
+    name: black pepper
+    cost:
+  - count: 1
+    unit: tablespoons
+    name: green onion
+    cost:
+  - count: 12
+    unit: ounces
+    name: egg noodles
+    cost:
+directions:
+  - use deep pan or dutch oven
+  - add 2 tbsp of oil and set to medium-high heat
+  - add thinly sliced beef 
+tags:
+  - beef
+  - noodles
+  - mushrooms
+  - russian
