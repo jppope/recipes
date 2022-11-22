@@ -3,13 +3,16 @@ description: The easiest dish known to man
 url: 'https://example.com'
 ingredients:
   - count: 16
-    unit: "oz"
-    name: "pasta"
+    unit: oz
+    name: pasta
     cost: 2.5
   - count: 2
     unit: oz
     name: Butter
     cost: .5
+hardware:
+  - loaf pan
+  - 1/2 measuring cup
 directions:
   - boil water
   - put the pasta into the water

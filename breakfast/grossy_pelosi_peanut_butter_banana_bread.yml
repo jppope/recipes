@@ -1,0 +1,85 @@
+title: Grossy Pelosi's Peanut Butter Frosted Chocolate Banana Bread
+description: The easiest dish known to man
+url: 'https://www.danpelosi.com/post/peanut-butter-and-banana-bread'
+ingredients:
+  - count: 0.5
+    unit: cup
+    name: granulated sugar
+    cost: 
+  - count: 0.5
+    unit: cup
+    name: brown sugar
+    cost: 
+  - count: 0.5
+    unit: cup
+    name: unsalted butter
+    cost:
+  - count: 1
+    unit: tsp
+    name: vanilla extract
+    cost:
+  - count: 2
+    unit: 
+    name: eggs
+    cost:
+  - count: 4
+    unit: 
+    name: ripe bananas
+    cost:
+  - count: 2
+    unit: cups
+    name: all-purpose flour
+    cost:
+  - count: 1
+    unit: tsp
+    name: baking soda
+    cost:
+  - count: 1
+    unit: tsp
+    name: kosher salt
+    cost:
+  - count: 0.5
+    unit: cup
+    name: chocolate bar or semi-sweet
+    cost:
+  - count: 1
+    unit: 
+    name: oil or butter for greasing
+    cost:
+hardware:
+  - Loaf Pan
+  - Handmixer with parts
+  - Large Mixing Bowl
+  - Butter Knife to level flour
+  - Masher
+  - ½ Measuring Cup
+  - 1 tsp Measuring Spoon
+  - Microwaveable ramekin
+  - Optional: knife and cutting board for chocolate
+  - Optional: small bowl, whisk, 1/4 measuring cup, 1/2 tsp measuring spoon for peanut butter frosting
+directions:
+  - Preheat oven 365 degrees (350 sea level)..
+  - In a large bowl, roughly mix granulated sugar, brown sugar, melted butter, and vanilla extract. 
+  - Add eggs and mashed bananas. Combine. 
+  - Mix in all-purpose flour, baking soda, and salt. 
+  - Optional: chop chocolate bar and add in or add in chocolate chips.
+  - Oil loaf pan and line it with sheet of parchment so that there are extra flaps over the long side of the pan. Easier to pull out the loaf.
+  - Pour batter into loaf pan, spreading it evenly. 
+  - Place in oven for 60 minutes (sea level 50-60 minutes) or until a knife comes cleanly out of the bread. 
+  - Remove from oven and let cool. 
+  - Optional: Make the frosting...whisk together smooth peanut butter and vanilla extract. Add confectioner's sugar and water, little by little, until you reach a desired consistency. Frost once bread is cooled and sprinkle sea salt on top.
+storing:
+  - Airtight container or bag to keep it fresh. 
+freezing:
+  - Freeze unfrosted tightly wrapped to avoid freezer burn. To defrost, leave on the counter top overnight and then frost. 
+additional notes:
+  - This recipe can be made in a 9x9 inch pan or in muffin/cupcake tins. Both will require shorter bake times than the loaf pan, so keep an eye on the oven and stop when your testing knife comes out cleanly!
+sides:
+  - $ref: 'https://github.com/jppope/recipes/sides/side_name'
+  - $ref: 'https://github.com/jppope/recipes/sides/other_side_name'
+tags:
+  - breakfast
+  - dessert
+  - banana
+  - chocolate
+  - peanut butter

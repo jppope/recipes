@@ -33,17 +33,8 @@ properties:
   hardware:
     type: array
     items:
-      - type: object
-        properties:
-          count:
-            description: |
-              ingredient measurement
-               e.g. (1) apple or 0.5 cups
-            type: number
-          name:
-            description: |
-              ingredient name
-            type: string
+      - type: string
+        description: list of hardware needed for cooking/baking
   directions:
     type: array
     items:
