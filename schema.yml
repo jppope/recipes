@@ -30,11 +30,40 @@ properties:
             description: |
               estimated cost for the item in USD
             type: number
+  hardware:
+    type: array
+    items:
+      - type: object
+        properties:
+          count:
+            description: |
+              ingredient measurement
+               e.g. (1) apple or 0.5 cups
+            type: number
+          name:
+            description: |
+              ingredient name
+            type: string
   directions:
     type: array
     items:
       - type: string
         description: directions for the recipe
+  storing:
+    type: array
+    items:
+      - type: string
+        description: notes on storing the food
+  freezing:
+    type: array
+    items:
+      - type: string
+        description: notes on freezing the food
+  additional notes:
+    type: array
+    items:
+      - type: string
+        description: notes on form variations of food e.g., using different cookware, doubling recipes, or cautions
   tags:
     type: array
     description: tags for the recipe

@@ -16,6 +16,12 @@ directions:
   - strain the pasta
   - add Butter
   - enjoy
+storing:
+  - notes
+freezing:
+  - more notes
+additional notes:
+  - more notes
 sides:
   - $ref: 'https://github.com/jppope/recipes/sides/side_name'
   - $ref: 'https://github.com/jppope/recipes/sides/other_side_name'
