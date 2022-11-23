@@ -19,7 +19,6 @@ ingredients:
     name: honey
     cost:
   - count: 1
-    unit: 
     name: egg
     cost:
   - count: 1
