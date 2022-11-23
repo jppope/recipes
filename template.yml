@@ -10,7 +10,7 @@ ingredients:
     unit: oz
     name: Butter
     cost: .5
-hardware:
+materials:
   - loaf pan
   - 1/2 measuring cup
 directions:

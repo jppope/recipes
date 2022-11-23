@@ -30,7 +30,7 @@ properties:
             description: |
               estimated cost for the item in USD
             type: number
-  hardware:
+  materials:
     type: array
     items:
       - type: string

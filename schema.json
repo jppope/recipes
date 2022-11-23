@@ -40,7 +40,7 @@
         }
       ]
     },
-    "hardware": {
+    "materials": {
       "type": "array",
       "minItems": 1,
       "items": [

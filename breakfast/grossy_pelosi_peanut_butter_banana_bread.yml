@@ -1,5 +1,5 @@
 title: Grossy Pelosi's Peanut Butter Frosted Chocolate Banana Bread
-description: The easiest dish known to man
+description: best banana bread ever
 url: 'https://www.danpelosi.com/post/peanut-butter-and-banana-bread'
 ingredients:
   - count: 0.5
@@ -46,7 +46,7 @@ ingredients:
     unit: 
     name: oil or butter for greasing
     cost:
-hardware:
+materials:
   - Loaf Pan
   - Handmixer with parts
   - Large Mixing Bowl
@@ -75,8 +75,7 @@ freezing:
 additional notes:
   - This recipe can be made in a 9x9 inch pan or in muffin/cupcake tins. Both will require shorter bake times than the loaf pan, so keep an eye on the oven and stop when your testing knife comes out cleanly!
 sides:
-  - $ref: 'https://github.com/jppope/recipes/sides/side_name'
-  - $ref: 'https://github.com/jppope/recipes/sides/other_side_name'
+  -
 tags:
   - breakfast
   - dessert
