@@ -17,7 +17,7 @@ ingredients:
     name: onion
     cost: 1.5
   - count: 1
-    name: zuccini
+    name: zucchini
     cost: 1
   - count: 2
     unit: cups
